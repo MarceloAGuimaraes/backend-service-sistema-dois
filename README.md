@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# backend-service-sistema-dois
+>>>>>>> feeaeb6adbb1bff3eca2f43fa98c9f32ae161eb0
