@@ -19,3 +19,7 @@ services:
 volumes:
   gem_cache:
   node_modules:
+networks: 
+  default: 
+    external: 
+      name: teste_ping
