@@ -1,7 +1,7 @@
 require 'net/http'
 
 class SistemaUmService
-  HOST = 'http://localhost:3000/'
+  HOST = 'http://172.25.0.4:3000/'
 
   def initialize(endpoint)
     @endpoint = HOST + endpoint
